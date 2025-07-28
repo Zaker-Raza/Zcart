@@ -1,2 +1,2 @@
-# Zcart
+# Zcartdemo
 E-commerce website
